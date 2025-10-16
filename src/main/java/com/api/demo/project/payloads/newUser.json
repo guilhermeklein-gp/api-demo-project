@@ -1,0 +1,5 @@
+{
+  "name": "Test User",
+  "email": "{{randomEmail}}",
+  "password": "123456"
+}
